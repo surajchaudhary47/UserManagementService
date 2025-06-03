@@ -1,0 +1,15 @@
+@User_Management_Service_ERP_HostAddress = http://localhost:5043
+
+GET {{User_Management_Service_ERP_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+### Create a new product
+POST https://localhost:5001/api/products
+Content-Type: application/json
+
+{
+  "name": "Sample Product",
+  "price": 19.99
+}

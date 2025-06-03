@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # From .NET Core 3.0 you can use the command: `dotnet new gitignore` to generate a customizable .gitignore file
 
 *.swp
@@ -32,3 +33,11 @@ msbuild.wrn
 
 # Visual Studio 2015
 .vs/
+=======
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/User_Management_Service_ERP
+/.vs
+>>>>>>> 7a7b996 (First Commit)

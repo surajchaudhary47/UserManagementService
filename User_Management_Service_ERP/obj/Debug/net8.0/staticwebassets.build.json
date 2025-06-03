@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Wrh71P6PH+6NewfbUrQHXSJJH4A8earpfVO7q1zl2C0=",
+  "Source": "User_Management_Service_ERP",
+  "BasePath": "_content/User_Management_Service_ERP",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
