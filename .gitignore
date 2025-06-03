@@ -41,3 +41,4 @@ msbuild.wrn
 /.vs/User_Management_Service_ERP
 /.vs
 >>>>>>> 7a7b996 (First Commit)
+/User_Management_Service_ERP/obj/Debug/net8.0/User_Management_Service_ERP.AssemblyInfo.cs
